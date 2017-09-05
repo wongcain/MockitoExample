@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cain/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha9_3d7631ccc4824f4f5d745b08be931086419acebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/3bc25dadd7b52a689421f8dad5e10236984e5d4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_3419626a221ad281002ff1f7bcc1ff78b73663fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/347aec586a5b4bbbf616b4df07192dbb9de43bfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_b7cb1084805c00019ce7bcf017eeb08bb3dcc454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/767d2fd0495ea4e4b9082ed34f6b2736abf412f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_04c9b9b2c911924a9e9d71005c00a55277ce4668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/0fdfbbd3af1681e12e56b0a0de78d4f330bbefa9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_083d19b21f2686a2c94c79ed3d5413f4e7e7b76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/fa4d158648d258807ff6c73fe535be4bd142c830/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_9fb9d72f38822d743255e4f95a14cd24fd462210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_14dd55a89bda0988fe1f12e4886a4b174ba805b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/4be33dd6681c0476928dd2aba39f7ca7a21f28f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_4ad09593f04c899d6e60cb4012b18bbe9294de5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/e09f3137e5f2a6c1451a6afffb726a5c9991ac0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_7dc96dcc1fe21a90ecf81760b0b2bc6262fc3920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/996a67d068483b72347e9d314d42a36a01892977/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_2c3c735565ac7b702623b2a9d04857bc8ef634ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/abf5fdb0463c3b2030abc1723acce730d98e89e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_184a1d81346a8ca60937811f6aad5862753f5cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cain/.android/build-cache/37219c2eca23dd7b1f4a104547d9acdad9c6c5c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/cain/Projects/android/MockitoExample/app/build/intermediates/pre-dexed/debug/classes_72033bff56eeee70ef7125ff8b6a8ea1cef32239.jar" />
+    </item>
+
+</items>
